@@ -1,0 +1,10 @@
+exchanges:
+  binance:
+    apikey: ''
+    apisecret: ''
+  bittrex:
+    apikey: ''
+    apisecret: ''
+  hitbtc:
+    apikey: ''
+    apisecret: ''
