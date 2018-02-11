@@ -1,0 +1,1 @@
+INTERVALS = ['minute', 'hour', 'day']
